@@ -41,12 +41,12 @@ Note: For simplicity we want the files to be downloaded locally rather than usin
 5) Unzip each directory
 6) Drag and drop all of the downloaded/saved files onto the Google Colab environment
 
-7) Before running any models, you must run the Blocks 1, 2, 3 and 4 in that order.\n
-    a) To run Gaussian Naive Bayes models: Run Block 7. \n
-    b) To run Decision Tree models: Run Block 11.\n
-    c) To run Multi-Layer Perceptron models: Run Blocks 15. \n
-    d) To run Convolutional Neural Network models: Run Blocks 20.\n
-    e) Comments under each block specify which portion of the project requirements is being answered.\n
+7) Before running any models, you must run the Blocks 1, 2, 3 and 4 in that order.<br>
+    a) To run Gaussian Naive Bayes models: Run Block 7. <br>
+    b) To run Decision Tree models: Run Block 11.<br>
+    c) To run Multi-Layer Perceptron models: Run Blocks 15. <br>
+    d) To run Convolutional Neural Network models: Run Blocks 20.<br>
+    e) Comments under each block specify which portion of the project requirements is being answered.<br>
 		
 NOTE: You may skip these steps and run Blocks 1 to 20 sequentially if you do not want the saved models, instead you will train and save the models from scratch on the Google Colab runtime environment. This will take SIGNIFICANTLY longer. Not recommended.
 
