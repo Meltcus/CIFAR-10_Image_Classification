@@ -20,7 +20,7 @@
 3) 472_Project.ipynb
   -  Encompasses scripts for data visualization and dataset processing.
   -  PyTorch code for the four models, including the variants, code for evaluation as well as saving, loading, and testing the models.
-
+  -  bp stands for bullet point in regards to the format of the project guidelines
 
 
   
