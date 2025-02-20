@@ -3,7 +3,7 @@
   -  Outlines the steps to execute the code for data pre-processing.
   -  Describe the steps for running the code to train, evaluate, and apply the models.
 
-2) COMP472_ProjectReport_Alvi_Rahath.pdf
+2) CIFA-10-Report.pdf
   -  Highlights the changes made for variants of each model, specifically noting how each deviates from the main model.
   -  Details the training methodology: number of epochs, learning rate, loss function used, and other relevant training hyperparameters.
   -  Mentions any optimization algorithms or techniques used, like mini-batch gradient descent, Adam optimizer, etc. 
@@ -17,9 +17,9 @@
   -  Discuss how layer size (for MLP) and kernel size (for CNN) variations affected the model’s recognition abilities.
   -  Summarized the primary findings: which model performed best and why?
     
-3) 472_Project.ipynb
+3) CIFA10_Classification.ipynb
   -  Encompasses scripts for data visualization and dataset processing.
-  -  PyTorch code for the four models, including the variants, code for evaluation as well as saving, loading, and testing the models.
+  -  PyTorch code for the four models, including the variants, code for evaluation, saving, loading, and testing the models.
   -  bp stands for bullet point in regards to the format of the project guidelines
 
 
